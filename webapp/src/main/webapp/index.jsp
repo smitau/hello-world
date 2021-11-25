@@ -1,2 +1,1 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Microsys </h2>
+<h1> Hello, Welcome to Sample DevOps Project !!   </h1>
